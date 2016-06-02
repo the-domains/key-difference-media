@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[KEY Difference Media]]></title>
         <description><![CDATA[KEY Difference Media]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/key-difference-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 17:25:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 02 Jun 2016 17:30:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/key-difference-media/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Dominate Your Market in 2016 with Content Marketing Amplification]]></title>
             <description><![CDATA[<article><h1>Dominate Your Market in 2016 with Content Marketing Amplification</h1><h2>Content Marketing Is Not Enough</h2><p>Today's consumer sees through thinly-veiled attempts at pushing content at them from all angles. </p></article>]]></description>
-            <link>undefinedtodays-consumer-sees-through-thinly-veiled-attempts-at-push/index.html</link>
+            <link>https://thegrid.ai/key-difference-media/todays-consumer-sees-through-thinly-veiled-attempts-at-push/index.html</link>
             <guid isPermaLink="false">54b0ced9-3763-443c-880c-654381e94a3c</guid>
-            <pubDate>Thu, 02 Jun 2016 17:25:45 GMT</pubDate>
+            <pubDate>Thu, 02 Jun 2016 17:30:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
